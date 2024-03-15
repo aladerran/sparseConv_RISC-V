@@ -2,7 +2,7 @@
 
 An experimental repo for developing sparse CNN operators aiming to run on risc-v architecture (especially on Boom w\ Gemmini).
 
-Files under ```/test/pkCXX/torchsparse``` are functions form Torchsparse by MIT-Han Lab.
+Files under ```/test/pkCXX/torchsparse``` are functions from Torchsparse by Mit-Han Lab.
 
 
 ## Quick Start
