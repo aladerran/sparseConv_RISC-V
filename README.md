@@ -1,6 +1,9 @@
 # Overview
 
-This is an experimental repo for developing operator for sparse CNN aiming to run on risc-v architecture.
+An experimental repo for developing sparse CNN operators aiming to run on risc-v architecture (especially on Boom w\ Gemmini).
+
+Files under ```/test/pkCXX/torchsparse``` are functions form Torchsparse by MIT-Han Lab.
+
 
 ## Quick Start
 
@@ -18,3 +21,6 @@ Run the following commands:
 ```bash
 ./run-verilator.sh
 ```
+
+---
+*Only for CMake/RISC-V exercise.
